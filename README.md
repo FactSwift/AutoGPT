@@ -13,3 +13,7 @@ AutoGPT dapat digunakan dengan membuat "Agent" baru dari template Forge yang tel
 
 Hal tersebut dilaksanakan dengan tahap fork repository AutoGPT dan clone secara lokal kedalam terminal. Library pada AutoGPT dikoneksikan dengan token akses GitHub pribadi yang kita miliki.
 ## Screenshots
+![Screenshot 2023-10-19 223714](https://github.com/FactSwift/AutoGPT/assets/58198569/d350763c-e3f5-41fa-acc0-a8685b6e4bca)
+
+![Screenshot 2023-10-19 223802](https://github.com/FactSwift/AutoGPT/assets/58198569/d766307e-4857-4abe-aa93-94d67fbb13b8)
+
