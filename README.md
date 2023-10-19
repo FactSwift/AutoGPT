@@ -1,4 +1,4 @@
-# AutoGPT: the heart of the open source agent ecosystem
+# AutoGPT: The Heart of The Open Source Agent Ecosystem
 AutoGPT adalah program AI yang berfungsi menyelesaikan tugas yang diberi dengan bahasa natural yang dirinci secara sub-task serta menggunakan internet dalam pola pengulangan otomatis secara mandiri.
 
 ZAIDAN AHMAD - 2305172 - IC TEAM
